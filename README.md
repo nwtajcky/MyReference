@@ -14,6 +14,25 @@ Quick Reference
 
 为开发人员分享快速参考备忘清单【速查表】。这是英文版 [Reference](https://github.com/Randy8080/reference) 的中文版本，目的是为了方便自己的技术栈查阅，如果您提供一个清单，我将抽空搬运，立即撸起来 :)。如果您发现此处的备忘单不合适，您可以通过提交 [PR](https://github.com/jaywcjlove/reference/blob/main/CONTRIBUTING.md) 来修复它或提供更好的备忘清单，只针对【中文】用户。以下是开源天使提供的一些备忘清单和快速参考 :)。
 
+## 快捷键
+[Blender](./docs/blender.md)<!--rehype:style=background: rgb(49 168 255);-->  
+[Adobe Lightroom](./docs/adobe-lightroom.md)<!--rehype:style=background: rgb(49 168 255);-->  
+[Adobe Photoshop](./docs/adobe-photoshop.md)<!--rehype:style=background: rgb(49 168 255);-->  
+[Adobe XD](./docs/adobe-xd.md)<!--rehype:style=background: rgb(255 97 246);-->  
+[Android Studio](./docs/android-studio.md)<!--rehype:style=background: rgb(16 185 129);-->  
+[Firefox](./docs/firefox.md)<!--rehype:style=background: rgb(253 53 76);-->  
+[Gmail](./docs/gmail.md)<!--rehype:style=background: rgb(234 67 54);-->  
+[Gitlab](./docs/gitlab.md)<!--rehype:style=background: rgb(226 67 41);-->  
+[Google Chrome](./docs/google-chrome.md)<!--rehype:style=background: rgb(29 116 232);-->  
+[IntelliJ IDEA](./docs/intelli-j-idea.md)<!--rehype:style=background: rgb(223 148 0);&class=tag&data-lang=Java-->  
+[PyCharm](./docs/pycharm.md)<!--rehype:style=background: rgb(36 215 137);&class=tag&data-lang=Python-->  
+[Sketch](./docs/sketch.md)<!--rehype:style=background: rgb(223 148 0);&class=tag&data-lang=macOS-->  
+[Sublime Text](./docs/sublime-text.md)<!--rehype:style=background: rgb(223 148 0);-->  
+[VSCode](./docs/vscode.md)<!--rehype:style=background: rgb(91 163 230);-->  
+[WebStorm](./docs/webstorm.md)<!--rehype:style=background: rgb(32 148 220);-->  
+[Xcode](./docs/xcode.md)<!--rehype:style=background: rgb(24 151 233);&class=tag&data-lang=macOS-->  
+<!--rehype:class=home-card-->
+
 ## 正在建设中...
 
 坑已挖，需要您的参与完善和[贡献](./docs/quickreference.md)！🙏
@@ -176,24 +195,6 @@ Quick Reference
 [Redis](./docs/redis.md)<!--rehype:style=background: rgb(198 47 44);-->  
 <!--rehype:class=home-card-->
 
-## 快捷键
-
-[Adobe Lightroom](./docs/adobe-lightroom.md)<!--rehype:style=background: rgb(49 168 255);-->  
-[Adobe Photoshop](./docs/adobe-photoshop.md)<!--rehype:style=background: rgb(49 168 255);-->  
-[Adobe XD](./docs/adobe-xd.md)<!--rehype:style=background: rgb(255 97 246);-->  
-[Android Studio](./docs/android-studio.md)<!--rehype:style=background: rgb(16 185 129);-->  
-[Firefox](./docs/firefox.md)<!--rehype:style=background: rgb(253 53 76);-->  
-[Gmail](./docs/gmail.md)<!--rehype:style=background: rgb(234 67 54);-->  
-[Gitlab](./docs/gitlab.md)<!--rehype:style=background: rgb(226 67 41);-->  
-[Google Chrome](./docs/google-chrome.md)<!--rehype:style=background: rgb(29 116 232);-->  
-[IntelliJ IDEA](./docs/intelli-j-idea.md)<!--rehype:style=background: rgb(223 148 0);&class=tag&data-lang=Java-->  
-[PyCharm](./docs/pycharm.md)<!--rehype:style=background: rgb(36 215 137);&class=tag&data-lang=Python-->  
-[Sketch](./docs/sketch.md)<!--rehype:style=background: rgb(223 148 0);&class=tag&data-lang=macOS-->  
-[Sublime Text](./docs/sublime-text.md)<!--rehype:style=background: rgb(223 148 0);-->  
-[VSCode](./docs/vscode.md)<!--rehype:style=background: rgb(91 163 230);-->  
-[WebStorm](./docs/webstorm.md)<!--rehype:style=background: rgb(32 148 220);-->  
-[Xcode](./docs/xcode.md)<!--rehype:style=background: rgb(24 151 233);&class=tag&data-lang=macOS-->  
-<!--rehype:class=home-card-->
 
 ## 其它
 
